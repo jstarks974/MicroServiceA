@@ -30,4 +30,4 @@ After receiving confirmation, a delimited list will need to be written to the fi
             todo_list.append(temp[i:i + 4])
 
 ## UML Sequence Diagram:
-https://github.com/jstarks974/MicroServiceA/blob/main/uml-screenshot.jpeg
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
