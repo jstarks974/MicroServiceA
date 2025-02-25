@@ -1,6 +1,12 @@
 # To Do List Item Sorter
 ## Description:
-This service sorts a to-do list by days until due, priority level, or alphabetically
+This service sorts a to-do list by days until due, priority level, or alphabetically when it reads "D", "P", or
+"A", respectively, over a text file. 
+
+## Requires:
+Python3
+
+
 ## How to REQUEST Data:
     with open(filename: String, "w") as file:
         file.write(sort_command: String)
