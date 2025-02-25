@@ -38,4 +38,4 @@ After receiving confirmation, a delimited list will need to be written to the fi
             todo_list.append(temp[i:i + 4])
 
 ## UML Sequence Diagram:
-![alt text](uml-diagram-updated.png "UML Sequence Diagram")
+![alt text](uml_sequence.png "UML Sequence Diagram")
