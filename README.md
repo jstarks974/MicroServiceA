@@ -5,6 +5,8 @@ This service sorts a to-do list by days until due, priority level, or alphabetic
 
 ## Requires:
 Python3
+Text file communication
+the Python time library
 
 
 ## How to REQUEST Data:
